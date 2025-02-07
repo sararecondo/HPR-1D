@@ -1,0 +1,5 @@
+# IPython Kernel for Jupyter
+ipykernel==6.29.5
+
+# Plotting library
+matplotlib==3.10.0
